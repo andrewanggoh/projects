@@ -12,7 +12,7 @@ I'm always eager to learn, collaborate, and contribute to impactful data initiat
 
 ## 1. Instagram Account Analysis
 
-- **Link**: [rpubs.com/andrewanggoh/InstagramAccountAnalysis](https://rpubs.com/andrewanggoh/InstagramAccountAnalysis)
+  - **RPubs**: [rpubs.com/andrewanggoh/InstagramAccountAnalysis](https://rpubs.com/andrewanggoh/InstagramAccountAnalysis)
 
 - **Description**: In this project, I am trying to analyze the Instagram account of a healthy snack brand by extracting the data using [Apify](https://apify.com/apify/instagram-scraper). Through this project, I perform data cleansing and preparation, starting from adjusting data types, handling missing values and duplicated data, reshaping, and feature engineering. I also perform data analysis to identify which types of posts drive higher engagement and to derive actionable insights that can help boost engagement on the account. My aim is to gain a deeper understanding of the end-to-end workflow of a data analyst
 
