@@ -7,14 +7,27 @@ During my college years, I enhanced my technical skills in Python, SQL, and R as
 I'm always eager to learn, collaborate, and contribute to impactful data initiatives. Feel free to explore my work and connect with me!
 
 ### Contacts
-- LinkedIn: [Andrew Oksner Anggoh](https://www.linkedin.com/in/andrewoanggoh/)
+- LinkedIn: [@andrewoanggoh](https://www.linkedin.com/in/andrewoanggoh/)
 - Gmail: andrew.anggoh@gmail.com
 
-## 1. Instagram Account Analysis
+## 1. Telegram Data Report Chatbot
 
-  - **RPubs**: [rpubs.com/andrewanggoh/InstagramAccountAnalysis](https://rpubs.com/andrewanggoh/InstagramAccountAnalysis)
+> [!NOTE]
+>
+> *You can test this Telegram chatbot live [here](https://t.me/DACP_VULCAN_ANDREW_BOT). If the chatbot is unresponsive, it may be due to free-tier hosting limitations. Please check out the demo video ([here](https://youtu.be/H1ibSAcm2_Y)) showcasing its full functionality. Alternatively, you can [contact](#contacts) me and I'll be happy to activate it for you to test live!*
 
-- **Description**: In this project, I am trying to analyze the Instagram account of a healthy snack brand by extracting the data using [Apify](https://apify.com/apify/instagram-scraper). Through this project, I perform data cleansing and preparation, starting from adjusting data types, handling missing values and duplicated data, reshaping, and feature engineering. I also perform data analysis to identify which types of posts drive higher engagement and to derive actionable insights that can help boost engagement on the account. My aim is to gain a deeper understanding of the end-to-end workflow of a data analyst
+- **Telegram Chatbot**: [DACP_VULCAN_ANDREW_BOT](https://t.me/DACP_VULCAN_ANDREW_BOT)
+  
+- **Description**: This is my first capstone project that I developed during my studies at Algoritma Data Science School. It is an interactive Telegram chatbot that analyzes Facebook Ads Campaign data and delivers marketing insights. Following the school's structured framework for bot development, I implemented commands (`/start`, `/plot`, etc.) and performed data wrangling, mathematical calculations, and visualization to generate reports and charts. This project honed my data analytics skills, showcasing the ability to deliver insights through an accessible interface.
+
+- **Skills**: data wrangling, data visualization
+- **Tools**: Python, Telegram, Telebot, Pythonanywhere
+
+## 2. Instagram Account Analysis
+
+- **RPubs**: [rpubs.com/andrewanggoh/InstagramAccountAnalysis](https://rpubs.com/andrewanggoh/InstagramAccountAnalysis)
+
+- **Description**: In this project, I am trying to analyze the Instagram account of a healthy snack brand by extracting the data using [Apify](https://apify.com/apify/instagram-scraper). Through this project, I perform data cleansing and preparation, starting from adjusting data types, handling missing values and duplicated data, reshaping, and feature engineering. I also perform data analysis to identify which types of posts drive higher engagement and to derive actionable insights that can help boost engagement on the account. My aim is to gain a deeper understanding of the end-to-end workflow of a data analyst.
 
 - **Skills**: data cleansing and preparation, data analysis, statistical testing
 - **Tools**: Apify, R, RStudio, RPubs
