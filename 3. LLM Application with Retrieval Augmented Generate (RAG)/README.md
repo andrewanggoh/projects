@@ -13,3 +13,7 @@ You can try it yourself on the link below. Here are the things you need to prepa
 
 - **Skills**: data wrangling, feature engineering, streamlit
 - **Tools**: Python, Gemini-AI, Streamlit
+
+## Contacts
+- LinkedIn: [@andrewoanggoh](https://www.linkedin.com/in/andrewoanggoh/)
+- Gmail: andrew.anggoh@gmail.com
