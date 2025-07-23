@@ -10,3 +10,7 @@
 
 - **Skills**: data wrangling, data visualization
 - **Tools**: Python, Telegram, Telebot, Pythonanywhere
+
+## Contacts
+- LinkedIn: [@andrewoanggoh](https://www.linkedin.com/in/andrewoanggoh/)
+- Gmail: andrew.anggoh@gmail.com
